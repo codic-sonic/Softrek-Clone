@@ -43,6 +43,6 @@ const sr = ScrollReveal({
 });
 
 sr.reveal(".about", { origin: "bottom", delay: 300 });
-sr.reveal(".section-title", { origin: "bottom", delay: 300 });
+sr.reveal(".section-title", { origin: "bottom", delay: 200 });
 sr.reveal(".icon-box", { origin: "bottom", delay: 300 });
-sr.reveal(".grid", { origin: "bottom", delay: 300 });
+sr.reveal(".grid", { origin: "bottom", delay: 200 });
